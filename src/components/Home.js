@@ -6,7 +6,7 @@ const Home = () => {
     return(
         <Card>
             <CardContent>
-                React 및 Oracle DB 기반의 워드 클라우드 어플리케이션
+                React 및 Firebase 기반의 워드 클라우드 어플리케이션
             </CardContent>
         </Card>
     )
